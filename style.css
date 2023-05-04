@@ -1,0 +1,79 @@
+.alunos {
+    header {
+        color: azure;
+    }
+     
+    body {
+        background-image: linear-gradient(#383d58, #00c0b0); color: aliceblue;
+        background-repeat: no-repeat;
+    }
+    
+    .escola-imagem { 
+        width: 20%;
+    }
+    
+    .escola-texto-um {
+        font-weight: 10px;
+    }
+    
+    .alunos {
+        color: aliceblue;
+       
+        
+    }
+    
+    .escola {
+        color: aliceblue;
+        
+    }<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+    </body>
+    </html>
+    
+    .logo-alura {
+        
+    }
+    .escola-conteudo{ 
+        width: 35%;
+    }
+    .escola-conteudo{
+        
+        justify-content: center;
+        align-items: center;
+    }
+    .escola-conteudo{
+        padding: 60px;
+    }
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+    </body>
+    </html><!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+    </body>
+    </html>
+
+}
